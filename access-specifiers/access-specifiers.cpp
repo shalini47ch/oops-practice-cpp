@@ -17,7 +17,7 @@ int main(){
     return 0;
 }
 /*
-Protected access specifier is the one which can be accessed outside the class in which it is defiend
+Protected access specifier is the one which can be accessed outside the class in which it is defined
 using the concept of inheritance.
 
 */
